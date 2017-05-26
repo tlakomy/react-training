@@ -8,8 +8,8 @@ FYI: This project was bootstrapped with [Create React App](https://github.com/fa
 # How do I run it?
 1. `npm install -g yarn` (You can use `npm` if you want, that's fine)
 2. Run `yarn` (or `npm install`)
-3. `npm start`
-4. Go to `http:/localhost:8081/vr/` in your favorite browser
+3. `npm start`/`yarn start`
+4. Go to `http:/localhost:3000` in your favorite browser
 
 # Are the slides available?
 Of course!, check the following link: https://docs.google.com/presentation/d/1egLFraizo9EDZ-y6P0x4jbJibovCJXMz1Y5ZTPDHVAA/edit?usp=sharing
